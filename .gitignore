@@ -1,0 +1,3 @@
+*.ipynb_notbooks
+iframe_figures/
+.env
